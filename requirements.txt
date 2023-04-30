@@ -1,0 +1,6 @@
+pandas
+great_expectations
+jupyterlab
+pyarrow
+fastparquet
+pyyaml
