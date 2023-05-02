@@ -14,7 +14,13 @@ In this demonstration, the NYC Yello Taxi Trip Data will be used. The dataset ca
 # Topics to be discussed
 The following will be discussed
 * **Domain Knowledge:** Taking a look at the data, can we conceptualize a number of expectations based at least, on what we think we know about this data
-* **Great Expectations Concepts**
+* **Basic Great Expectations Concepts**
+    * Data Contexts and Store Backends
+    * Data Sources
+    * Batch Requests
+    * Expectation Suites
+    * Validators
+    * Checkpoints
 * **Documentation of Expectations:** How do we document the expectations that we have about this dataset
 * **Hands-on-1 | Using the Validator Object together with Checkpoints:** We use the validator object to create expectations and an expectation suite and subsequently evaluate the quality of the data in question
 * **Hands-on-2 | Using the Expectations Configurations:** We use a list of expectation configurations defined as  a list of python dictionaries to define expectations in an expectation suite and validate the suite using a Checkpoint
